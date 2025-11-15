@@ -1,8 +1,6 @@
-## Hi there 👋
 
-I'm **Moh Rizqi Amanusa Abinovan**.<br>
 
-## <h3 align="left">GitHub Stats</h3>
+ <h3 align="left">GitHub Stats</h3>
 
 <p align="left">
 <a href="https://github.com/riveleus">
